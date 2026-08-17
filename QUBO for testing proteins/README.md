@@ -2,7 +2,7 @@
 
 - **1 Generate adjacency matrices**
 - **&ensp;&ensp;&ensp;a Exclude hydrogen atoms, continuous distance decay and physicochemical weight estimation**
-- **&ensp;&ensp;&ensp;b Ccutoff distant**
+- **&ensp;&ensp;&ensp;b Ccutoff distance**
 - **2 Predict the top residues by eigenvector centrality(EC)**
 - **&ensp;&ensp;&ensp;a Classical solver**
 - **&ensp;&ensp;&ensp;b Simulated annealing**
